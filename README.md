@@ -32,8 +32,5 @@ The company faced challenges in:
 ## 🖼️ Screenshots
 Screenshots of Salesforce implementation are available in the `/screenshots` folder.
 
-## 🎥 Demo Video
-Demo video link is provided in the project submission form.
-
 ## 👩‍💻 Author
 Battu Naga Roopini
